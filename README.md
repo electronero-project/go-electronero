@@ -1,4 +1,4 @@
-## Go Ethereum
+## Go Electronero
 
 Official Golang implementation of the Ethereum protocol.
 

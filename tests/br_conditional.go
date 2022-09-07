@@ -74,12 +74,12 @@ func blockSimulator() {
 		if IsBRonline(block) {
 		    rebate := ConstantBlockReward
 		    if IsBRFinalSubsidy(block) {
-			fmt.Println("Final subsidy entered @ ",block," REBATE AMOUNT: 0")
+			    fmt.Println("Final subsidy entered @ ",block," REBATE AMOUNT: 0")
 		    } else if IsBRHalving(block) {
-			rebate = ConstantHalfBlockReward
-			fmt.Println("Block Halving event entered @ ",block," REBATE AMOUNT: ", rebate)
+			    rebate = ConstantHalfBlockReward
+			    fmt.Println("Block Halving event entered @ ",block," REBATE AMOUNT: ", rebate)
 		    } else {
-			fmt.Println("Block Rebates ACTIVE @ ",block," REBATE AMOUNT: ",rebate)
+			    fmt.Println("Block Rebates ACTIVE @ ",block," REBATE AMOUNT: ",rebate)
 		    }
 		} else {
 		    fmt.Println("Disabled rebates",block)

@@ -1,24 +1,24 @@
-## Go-Ethereum, an alt-eth hard fork "Kekchain (KEK)"
+## Go-Electronero, an alt-eth hard fork featuring "Kekchain (KEK)" testnet
 
 Some scripts were also provided to accompany the notes. 
 
-Testnet is operational: self initializes add the following flag to geth on startup
+Kekchain (KEK) Testnet is operational: self initializes add the following flag to geth on startup
 ```
 --kektest
 ```
 
 ## Installation help frens?
-Check [[install.md]](https://github.com/lol-chain/go-kekchain-testnet/blob/main/install.md) for interchained notes.
-When Installed, check [startups.md](https://github.com/lol-chain/go-kekchain-testnet/blob/main/startups.md) 
+Check [[install.md]](https://github.com/electronero-project/go-electronero/blob/main/install.md) for interchained notes.
+When Installed, check [startups.md](https://github.com/electronero-project/go-electronero/blob/main/startups.md) 
 
 
 Official Golang implementation of the Ethereum protocol.
 
 [![API Reference](
 https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/68747470733a2f2f676f646f632e6f72672f6769746875622e636f6d2f676f6c616e672f6764646f3f7374617475732e737667
-)](https://pkg.go.dev/github.com/lol-chain/go-kekchain-testnet?tab=doc)
-[![Go Report Card](https://goreportcard.com/badge/github.com/lol-chain/go-kekchain-testnet)](https://goreportcard.com/report/github.com/lol-chain/go-kekchain-testnet)
-[![Travis](https://travis-ci.com/lol-chain/go-kekchain-testnet.svg?branch=master)](https://travis-ci.com/lol-chain/go-kekchain-testnet)
+)](https://pkg.go.dev/github.com/electronero-project/go-electronero?tab=doc)
+[![Go Report Card](https://goreportcard.com/badge/github.com/electronero-project/go-electronero)](https://goreportcard.com/report/github.com/electronero-project/go-electronero)
+[![Travis](https://travis-ci.com/electronero-project/go-electronero.svg?branch=master)](https://travis-ci.com/electronero-project/go-electronero)
 [![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/nthXNEv)
 
 
